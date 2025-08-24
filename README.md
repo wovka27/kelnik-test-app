@@ -1,75 +1,89 @@
-# Nuxt Minimal Starter
+# 🚀 Kelnik-test-app
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Node.js](https://img.shields.io/badge/node-%3E%3D18-green)
+![Nuxt 3](https://img.shields.io/badge/Nuxt-3-00DC82?logo=nuxt.js)
+![ESLint](https://img.shields.io/badge/code%20style-ESLint-4B32C3?logo=eslint)
+![Prettier](https://img.shields.io/badge/code%20formatter-Prettier-F7B93E?logo=prettier)
+![Stylelint](https://img.shields.io/badge/stylelint-CSS%20Lint-263238?logo=stylelint)
 
-## Setup
+---
 
-Make sure to install dependencies:
+## ✅ Требования
+
+- **Node.js**: v18+
+- **npm**, **yarn** или **pnpm**
+
+---
+
+## 📦 Установка зависимостей
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+$ git clone <repo-url>
+$ cd <project-folder>
+$ npm install
 ```
 
-## Development Server
+После установки автоматически выполняется:
 
-Start the development server on `http://localhost:3000`:
+```
+nuxt prepare
+```
 
+---
+
+## ▶️ Скрипты
+
+### **Запуск проекта**
+
+✅ **Режим разработки**
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
+✅ **Сборка для продакшена**
 ```bash
-# npm
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
-
+✅ **Генерация статического сайта**
 ```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
+npm run generate
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+✅ **Предпросмотр собранного проекта**
+```bash
+npm run preview
+```
+
+---
+
+### **Линтинг и форматирование**
+
+🟪 **ESLint** (проверка JS/TS)
+```bash
+npm run lint       # Проверка кода
+npm run lint:fix   # Исправление ошибок
+```
+
+🟩 **Stylelint** (проверка стилей)
+```bash
+npm run lint:css       # Проверка стилей
+npm run lint:css:fix   # Исправление стилей
+```
+
+🟨 **Prettier** (форматирование кода)
+```bash
+npm run format
+```
+
+---
+
+---
+
+## 🔍 Полезные ссылки
+
+- [📘 Nuxt 3 Docs](https://nuxt.com/docs)
+- [🔍 ESLint](https://eslint.org/)
+- [🎨 Prettier](https://prettier.io/)
+- [💅 Stylelint](https://stylelint.io/)
+
