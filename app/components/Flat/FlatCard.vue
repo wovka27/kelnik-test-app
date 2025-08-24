@@ -16,7 +16,7 @@
       <img width="80" height="80" src="/images/plan.svg" :alt="`Планировка квартиры ${data.apartmentNumber}`" />
     </div>
     <div class="flat-card__content">
-      <NuxtLink :to="`/flat/${data.id}`" class="flat-card__name">
+      <NuxtLink :to="`/flats/${data.id}`" class="flat-card__name">
         <strong> {{ data.rooms }}-комнатная №{{ data.apartmentNumber }} </strong>
       </NuxtLink>
       <div class="flat-card__square">{{ data.square }}</div>

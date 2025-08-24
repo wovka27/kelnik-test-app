@@ -1,20 +1,9 @@
-import type { Flat } from "~~/server/types/flats";
-
 export const useFlatData = () => {
   const route = useRoute();
-  const item = ref<Flat>();
 
-  const fetchData = async () => {
-      try {
-        const data = await $fetch(`/api/flats/${route.params.uuid}`);
-        item.value = data;
+  const {data: item, error} = useFetch(`/api/flats/${route.params.id}`)
 
-      } catch (error) {
-        showError(error)
-      }
-  }
-
-  fetchData();
+  if (error.value) showError(error.value)
 
   return { item };
 };

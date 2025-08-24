@@ -1,15 +1,18 @@
 <script setup lang="ts">
   import { useFlatData } from "~/composables/useFlatData";
 
-  const router = useRouter()
   const { item } = useFlatData();
 
-  const detailList = computed(() => item.value ? [
-    {label: 'Комнат:',value: item.value.rooms},
-    {label: 'Площадь:',value: item.value.square + ' м²'},
-    {label: 'Этаж:',value: `${ item.value.floor } из ${ item.value.totalFloors }`},
-    {label: 'Цена:',value: item.value.price.toLocaleString("fr")},
-  ] : [])
+  const detailList = computed(() =>
+    item.value
+      ? [
+          { label: "Комнат:", value: item.value.rooms },
+          { label: "Площадь:", value: item.value.square + " м²" },
+          { label: "Этаж:", value: `${item.value.floor} из ${item.value.totalFloors}` },
+          { label: "Цена:", value: item.value.price.toLocaleString("fr") },
+        ]
+      : []
+  );
 </script>
 
 <template>
@@ -28,7 +31,7 @@
 
         <div class="flat-detail__grid">
           <div v-for="(item, index) of detailList" :key="index" class="flat-detail__item">
-            <span class="flat-detail__label">{{item.label}}</span>
+            <span class="flat-detail__label">{{ item.label }}</span>
             <span class="flat-detail__value">{{ item.value }}</span>
           </div>
         </div>
@@ -38,7 +41,7 @@
           <p>{{ item.description }}</p>
         </div>
 
-        <button class="btn" @click="router.back"> Назад </button>
+        <button class="btn" @click="$router.back">Назад</button>
       </div>
     </div>
   </div>
