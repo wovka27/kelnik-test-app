@@ -2,7 +2,7 @@
   import { computed, ref, watch } from "vue";
 
   import clamp from "#shared/clamp";
-  import { MAX_PRECENT_VALUE, MIN_PRECENT_VALUE } from "~~/constants/percent";
+  import { MAX_PERCENT_VALUE, MIN_PERCENT_VALUE } from "~~/constants/percent";
 
   interface RangeSliderProps {
     label: string;
@@ -44,19 +44,19 @@
   const rangePercent = computed(() => {
     const total = props.max - props.min;
 
-    if (total <= MIN_PRECENT_VALUE || !isFinite(total)) {
-      return { left: MIN_PRECENT_VALUE, right: MIN_PRECENT_VALUE };
+    if (total <= MIN_PERCENT_VALUE || !isFinite(total)) {
+      return { left: MIN_PERCENT_VALUE, right: MIN_PERCENT_VALUE };
     }
 
     const left = clamp(
-      ((displayedLower.value - props.min) / total) * MAX_PRECENT_VALUE,
-      MIN_PRECENT_VALUE,
-      MAX_PRECENT_VALUE
+      ((displayedLower.value - props.min) / total) * MAX_PERCENT_VALUE,
+      MIN_PERCENT_VALUE,
+      MAX_PERCENT_VALUE
     );
     const right = clamp(
-      ((displayedUpper.value - props.min) / total) * MAX_PRECENT_VALUE,
-      MIN_PRECENT_VALUE,
-      MAX_PRECENT_VALUE
+      ((displayedUpper.value - props.min) / total) * MAX_PERCENT_VALUE,
+      MIN_PERCENT_VALUE,
+      MAX_PERCENT_VALUE
     );
 
     return { left, right };
@@ -66,7 +66,7 @@
     const { left, right } = rangePercent.value;
     return {
       left: `${left}%`,
-      width: `${Math.max(MIN_PRECENT_VALUE, right - left)}%`,
+      width: `${Math.max(MIN_PERCENT_VALUE, right - left)}%`,
     };
   });
 
