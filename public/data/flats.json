@@ -1,0 +1,902 @@
+[
+  {
+    "id": "e2e3bcf1-0b05-4472-90d0-629f9f7d9cfa",
+    "rooms": 2,
+    "square": 41.5,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 4050000,
+    "apartmentNumber": 1
+  },
+  {
+    "id": "ac76d7fe-6017-4de1-bf7a-441f80441c0a",
+    "rooms": 3,
+    "square": 43.0,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 4100000,
+    "apartmentNumber": 2
+  },
+  {
+    "id": "af448efa-f572-4636-ac06-f66a5613ba9b",
+    "rooms": 4,
+    "square": 44.5,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 4150000,
+    "apartmentNumber": 3
+  },
+  {
+    "id": "ad0b30c1-d8ef-42c0-ba8e-4fd03fb186d6",
+    "rooms": 1,
+    "square": 46.0,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 4200000,
+    "apartmentNumber": 4
+  },
+  {
+    "id": "11ff5868-d914-4f01-8b9d-c69e90a98bcb",
+    "rooms": 2,
+    "square": 47.5,
+    "floor": 6,
+    "totalFloors": 17,
+    "price": 4250000,
+    "apartmentNumber": 5
+  },
+  {
+    "id": "27791382-f1a1-47d3-ac56-a31e385b4562",
+    "rooms": 3,
+    "square": 49.0,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 4300000,
+    "apartmentNumber": 6
+  },
+  {
+    "id": "f246d4df-3fd8-4524-91d0-8fa9880bc1fc",
+    "rooms": 4,
+    "square": 50.5,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 4350000,
+    "apartmentNumber": 7
+  },
+  {
+    "id": "e566518f-e6db-4572-be4f-14a5d1e26e8c",
+    "rooms": 1,
+    "square": 52.0,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 4400000,
+    "apartmentNumber": 8
+  },
+  {
+    "id": "6f3cdd1f-972f-4be1-b814-6a63df580076",
+    "rooms": 2,
+    "square": 53.5,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 4450000,
+    "apartmentNumber": 9
+  },
+  {
+    "id": "3e28d62a-f4ad-497e-ab04-799a9e5a4cc3",
+    "rooms": 3,
+    "square": 55.0,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 4500000,
+    "apartmentNumber": 10
+  },
+  {
+    "id": "c1cee1af-60b2-4932-9903-b472ec9b4a1d",
+    "rooms": 4,
+    "square": 56.5,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 4550000,
+    "apartmentNumber": 11
+  },
+  {
+    "id": "8d7f7255-58a7-478c-aebb-a891692914ae",
+    "rooms": 1,
+    "square": 58.0,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 4600000,
+    "apartmentNumber": 12
+  },
+  {
+    "id": "7e511680-5789-447f-9d11-9fe1e3d8c628",
+    "rooms": 2,
+    "square": 59.5,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 4650000,
+    "apartmentNumber": 13
+  },
+  {
+    "id": "b15d1071-f411-4016-aaa2-2ed62b2c5011",
+    "rooms": 3,
+    "square": 61.0,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 4700000,
+    "apartmentNumber": 14
+  },
+  {
+    "id": "c99a400e-9567-4eb0-8899-c147411bd973",
+    "rooms": 4,
+    "square": 62.5,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 4750000,
+    "apartmentNumber": 15
+  },
+  {
+    "id": "ef8a9440-e165-415a-a5ce-317df4511453",
+    "rooms": 1,
+    "square": 64.0,
+    "floor": 17,
+    "totalFloors": 17,
+    "price": 4800000,
+    "apartmentNumber": 16
+  },
+  {
+    "id": "df3577a2-48e2-4304-8310-db8171c382e3",
+    "rooms": 2,
+    "square": 65.5,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 4850000,
+    "apartmentNumber": 17
+  },
+  {
+    "id": "7bb7f567-889d-4adc-a289-f8b9fab57910",
+    "rooms": 3,
+    "square": 67.0,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 4900000,
+    "apartmentNumber": 18
+  },
+  {
+    "id": "44d1b9a2-23fa-465b-9837-77950039c302",
+    "rooms": 4,
+    "square": 68.5,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 4950000,
+    "apartmentNumber": 19
+  },
+  {
+    "id": "190ac4c7-9ca4-4fc9-8f76-d56b5efee1a6",
+    "rooms": 1,
+    "square": 70.0,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 5000000,
+    "apartmentNumber": 20
+  },
+  {
+    "id": "5be7a4c1-3c17-4f4e-b1ad-a369fda7ec9c",
+    "rooms": 2,
+    "square": 71.5,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 5050000,
+    "apartmentNumber": 21
+  },
+  {
+    "id": "c6636917-d699-4e6e-ab2a-af300d0d5f03",
+    "rooms": 3,
+    "square": 73.0,
+    "floor": 6,
+    "totalFloors": 17,
+    "price": 5100000,
+    "apartmentNumber": 22
+  },
+  {
+    "id": "21c44fbf-4b5d-4a6d-9b97-456f1f7a6e74",
+    "rooms": 4,
+    "square": 74.5,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 5150000,
+    "apartmentNumber": 23
+  },
+  {
+    "id": "9f7bf3fd-c08d-406b-94f4-1a6e8ada2dcc",
+    "rooms": 1,
+    "square": 76.0,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 5200000,
+    "apartmentNumber": 24
+  },
+  {
+    "id": "f76eaf83-bbd8-4520-a05e-104f2dcc1f9e",
+    "rooms": 2,
+    "square": 77.5,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 5250000,
+    "apartmentNumber": 25
+  },
+  {
+    "id": "9d4d4f91-2436-4271-be2f-a56a0d25a1fe",
+    "rooms": 3,
+    "square": 79.0,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 5300000,
+    "apartmentNumber": 26
+  },
+  {
+    "id": "939b6210-5080-42c5-82f1-3ac4028dfb59",
+    "rooms": 4,
+    "square": 80.5,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 5350000,
+    "apartmentNumber": 27
+  },
+  {
+    "id": "81a6083b-7af3-4268-8eba-a11860870f1e",
+    "rooms": 1,
+    "square": 82.0,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 5400000,
+    "apartmentNumber": 28
+  },
+  {
+    "id": "97d62bac-a7b9-48c5-b8de-e7328c9cf348",
+    "rooms": 2,
+    "square": 83.5,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 5450000,
+    "apartmentNumber": 29
+  },
+  {
+    "id": "3836fed0-cc60-46cd-bd4e-1f522302199b",
+    "rooms": 3,
+    "square": 85.0,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 5500000,
+    "apartmentNumber": 30
+  },
+  {
+    "id": "07c6aeef-e3db-4bd8-8ade-d5ab696b4538",
+    "rooms": 4,
+    "square": 86.5,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 5550000,
+    "apartmentNumber": 31
+  },
+  {
+    "id": "4dfbddd4-7236-441c-8c49-d10a54317ae5",
+    "rooms": 1,
+    "square": 88.0,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 5600000,
+    "apartmentNumber": 32
+  },
+  {
+    "id": "fc19912e-5c9a-468c-a764-319af4190683",
+    "rooms": 2,
+    "square": 89.5,
+    "floor": 17,
+    "totalFloors": 17,
+    "price": 5650000,
+    "apartmentNumber": 33
+  },
+  {
+    "id": "a2919203-63d7-4c0a-8c6c-7c55726dcbe5",
+    "rooms": 3,
+    "square": 91.0,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 5700000,
+    "apartmentNumber": 34
+  },
+  {
+    "id": "b114acf3-deba-49b6-83b8-5440355d4be8",
+    "rooms": 4,
+    "square": 92.5,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 5750000,
+    "apartmentNumber": 35
+  },
+  {
+    "id": "bf69ee11-9cb2-4745-a2e2-520a2bf8005e",
+    "rooms": 1,
+    "square": 94.0,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 5800000,
+    "apartmentNumber": 36
+  },
+  {
+    "id": "e44ed49e-60c7-4430-bc10-e59d6a52ae49",
+    "rooms": 2,
+    "square": 95.5,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 5850000,
+    "apartmentNumber": 37
+  },
+  {
+    "id": "ee6f64ed-3591-489f-9b0a-ff1955a120b3",
+    "rooms": 3,
+    "square": 97.0,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 5900000,
+    "apartmentNumber": 38
+  },
+  {
+    "id": "1e9b67da-475b-48b2-8055-4eb2062a3914",
+    "rooms": 4,
+    "square": 98.5,
+    "floor": 6,
+    "totalFloors": 17,
+    "price": 5950000,
+    "apartmentNumber": 39
+  },
+  {
+    "id": "4d322692-1152-4a4a-9aa1-3e1c5a3bf4ee",
+    "rooms": 1,
+    "square": 100.0,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 6000000,
+    "apartmentNumber": 40
+  },
+  {
+    "id": "4c820ef0-fb40-45db-a663-cd6a4a77f087",
+    "rooms": 2,
+    "square": 101.5,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 6050000,
+    "apartmentNumber": 41
+  },
+  {
+    "id": "de3f0277-7c6f-4103-8dcb-b2033a071a61",
+    "rooms": 3,
+    "square": 103.0,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 6100000,
+    "apartmentNumber": 42
+  },
+  {
+    "id": "8de39879-ab03-4b3b-8217-1d876294d03f",
+    "rooms": 4,
+    "square": 104.5,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 6150000,
+    "apartmentNumber": 43
+  },
+  {
+    "id": "cfd44d34-f662-434f-a52d-81b73d9f4b23",
+    "rooms": 1,
+    "square": 106.0,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 6200000,
+    "apartmentNumber": 44
+  },
+  {
+    "id": "6b322bd8-734e-45a6-a28a-ba373ef92ca1",
+    "rooms": 2,
+    "square": 107.5,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 6250000,
+    "apartmentNumber": 45
+  },
+  {
+    "id": "da8ac9ee-46de-4066-ab83-2cb72f324aac",
+    "rooms": 3,
+    "square": 109.0,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 6300000,
+    "apartmentNumber": 46
+  },
+  {
+    "id": "92990484-a925-4364-808c-2c54e2116711",
+    "rooms": 4,
+    "square": 110.5,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 6350000,
+    "apartmentNumber": 47
+  },
+  {
+    "id": "edfe5164-b517-4b1d-b986-9e766aea3488",
+    "rooms": 1,
+    "square": 112.0,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 6400000,
+    "apartmentNumber": 48
+  },
+  {
+    "id": "5ba37c85-9138-4c72-8e42-cf5d015e3c47",
+    "rooms": 2,
+    "square": 113.5,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 6450000,
+    "apartmentNumber": 49
+  },
+  {
+    "id": "3e13b42a-860f-45ad-937c-f49fa0dec2a9",
+    "rooms": 3,
+    "square": 40.0,
+    "floor": 17,
+    "totalFloors": 17,
+    "price": 6500000,
+    "apartmentNumber": 50
+  },
+  {
+    "id": "6d923a1f-31b4-4aed-9d3a-cb451775fb0b",
+    "rooms": 4,
+    "square": 41.5,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 6550000,
+    "apartmentNumber": 51
+  },
+  {
+    "id": "ce9bacde-6e4e-473b-af3a-047cd809df32",
+    "rooms": 1,
+    "square": 43.0,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 6600000,
+    "apartmentNumber": 52
+  },
+  {
+    "id": "d791feff-af00-427a-a577-a96c8f2fab9d",
+    "rooms": 2,
+    "square": 44.5,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 6650000,
+    "apartmentNumber": 53
+  },
+  {
+    "id": "c1e811ab-aacb-4254-a85c-aa2daec21dde",
+    "rooms": 3,
+    "square": 46.0,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 6700000,
+    "apartmentNumber": 54
+  },
+  {
+    "id": "57bdf46c-9d47-474f-9e42-aa467393070e",
+    "rooms": 4,
+    "square": 47.5,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 6750000,
+    "apartmentNumber": 55
+  },
+  {
+    "id": "81bb358f-367a-4d57-b675-f0c7587230b1",
+    "rooms": 1,
+    "square": 49.0,
+    "floor": 6,
+    "totalFloors": 17,
+    "price": 6800000,
+    "apartmentNumber": 56
+  },
+  {
+    "id": "cd674cc8-37c3-4f4e-ba7d-e94f49213a95",
+    "rooms": 2,
+    "square": 50.5,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 6850000,
+    "apartmentNumber": 57
+  },
+  {
+    "id": "afd09efe-fdc0-4b00-95a8-559c3febd3b0",
+    "rooms": 3,
+    "square": 52.0,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 6900000,
+    "apartmentNumber": 58
+  },
+  {
+    "id": "2e08c7b2-6cec-4c19-8323-29a832f8f0b1",
+    "rooms": 4,
+    "square": 53.5,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 6950000,
+    "apartmentNumber": 59
+  },
+  {
+    "id": "594029d0-506d-444d-9284-db20d495f029",
+    "rooms": 1,
+    "square": 55.0,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 7000000,
+    "apartmentNumber": 60
+  },
+  {
+    "id": "7041f298-33a6-4edd-832c-08950ffdd8e6",
+    "rooms": 2,
+    "square": 56.5,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 7050000,
+    "apartmentNumber": 61
+  },
+  {
+    "id": "43321e1d-db38-43d8-bbe0-c61e97e65c45",
+    "rooms": 3,
+    "square": 58.0,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 7100000,
+    "apartmentNumber": 62
+  },
+  {
+    "id": "82952524-06ea-48b8-87a0-90341ad5a910",
+    "rooms": 4,
+    "square": 59.5,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 7150000,
+    "apartmentNumber": 63
+  },
+  {
+    "id": "ca28eba2-887b-42bb-b889-af596c152e97",
+    "rooms": 1,
+    "square": 61.0,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 7200000,
+    "apartmentNumber": 64
+  },
+  {
+    "id": "ed0fd769-f0dc-4975-a5d7-6783d3449d23",
+    "rooms": 2,
+    "square": 62.5,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 7250000,
+    "apartmentNumber": 65
+  },
+  {
+    "id": "e05c6faa-0ee0-4d12-8450-bb17771364ea",
+    "rooms": 3,
+    "square": 64.0,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 7300000,
+    "apartmentNumber": 66
+  },
+  {
+    "id": "5ac9651b-02b9-4c04-9402-57bc6b802045",
+    "rooms": 4,
+    "square": 65.5,
+    "floor": 17,
+    "totalFloors": 17,
+    "price": 7350000,
+    "apartmentNumber": 67
+  },
+  {
+    "id": "627e70b5-2409-40be-a8db-31aca1603414",
+    "rooms": 1,
+    "square": 67.0,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 7400000,
+    "apartmentNumber": 68
+  },
+  {
+    "id": "4f639b68-791c-4e25-85f4-1fb6fc3eebfd",
+    "rooms": 2,
+    "square": 68.5,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 7450000,
+    "apartmentNumber": 69
+  },
+  {
+    "id": "3a4ff229-5f1b-424a-a425-7c20f9a75bbe",
+    "rooms": 3,
+    "square": 70.0,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 7500000,
+    "apartmentNumber": 70
+  },
+  {
+    "id": "6f9dde1c-7e3b-4d21-afec-aa30234e6c0b",
+    "rooms": 4,
+    "square": 71.5,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 7550000,
+    "apartmentNumber": 71
+  },
+  {
+    "id": "084018fc-50bd-48fc-a426-32a39a7f858f",
+    "rooms": 1,
+    "square": 73.0,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 7600000,
+    "apartmentNumber": 72
+  },
+  {
+    "id": "00605c7f-cd52-46c5-b2cd-9b6a1f4bd938",
+    "rooms": 2,
+    "square": 74.5,
+    "floor": 6,
+    "totalFloors": 17,
+    "price": 7650000,
+    "apartmentNumber": 73
+  },
+  {
+    "id": "09022876-277e-4a00-8a79-aca01906251b",
+    "rooms": 3,
+    "square": 76.0,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 7700000,
+    "apartmentNumber": 74
+  },
+  {
+    "id": "4054ee1f-8beb-43e9-8f9c-9c9a4f8b9565",
+    "rooms": 4,
+    "square": 77.5,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 7750000,
+    "apartmentNumber": 75
+  },
+  {
+    "id": "8b49f1c5-8e6a-4fc3-a1c4-518d64f9c9bc",
+    "rooms": 1,
+    "square": 79.0,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 7800000,
+    "apartmentNumber": 76
+  },
+  {
+    "id": "94a65302-7507-48a0-b144-a9a25dbf4c65",
+    "rooms": 2,
+    "square": 80.5,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 7850000,
+    "apartmentNumber": 77
+  },
+  {
+    "id": "789f4cf1-f29b-4894-974f-14bcf2e6eaae",
+    "rooms": 3,
+    "square": 82.0,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 7900000,
+    "apartmentNumber": 78
+  },
+  {
+    "id": "9dbb5e33-afbb-4674-b346-9d546be1318c",
+    "rooms": 4,
+    "square": 83.5,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 7950000,
+    "apartmentNumber": 79
+  },
+  {
+    "id": "7606de9b-79a2-4da0-af99-485c99003771",
+    "rooms": 1,
+    "square": 85.0,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 8000000,
+    "apartmentNumber": 80
+  },
+  {
+    "id": "6a227452-36c5-4355-bec6-07d8d726c78e",
+    "rooms": 2,
+    "square": 86.5,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 8050000,
+    "apartmentNumber": 81
+  },
+  {
+    "id": "c1732840-7ab6-457d-93ac-f38dbd8d0231",
+    "rooms": 3,
+    "square": 88.0,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 8100000,
+    "apartmentNumber": 82
+  },
+  {
+    "id": "71a5973d-5729-4901-a5c5-f0d7a1913bc0",
+    "rooms": 4,
+    "square": 89.5,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 8150000,
+    "apartmentNumber": 83
+  },
+  {
+    "id": "a05bb7f0-1f89-44bc-9a6e-0cd3cbb469b7",
+    "rooms": 1,
+    "square": 91.0,
+    "floor": 17,
+    "totalFloors": 17,
+    "price": 8200000,
+    "apartmentNumber": 84
+  },
+  {
+    "id": "5930d226-dcdb-49a9-b5f2-17fadfd73802",
+    "rooms": 2,
+    "square": 92.5,
+    "floor": 1,
+    "totalFloors": 17,
+    "price": 8250000,
+    "apartmentNumber": 85
+  },
+  {
+    "id": "af9d8d75-7763-48bb-84d2-ff614abeeec4",
+    "rooms": 3,
+    "square": 94.0,
+    "floor": 2,
+    "totalFloors": 17,
+    "price": 8300000,
+    "apartmentNumber": 86
+  },
+  {
+    "id": "fc1e0fb6-f3e0-487f-b4f6-300e1a13042c",
+    "rooms": 4,
+    "square": 95.5,
+    "floor": 3,
+    "totalFloors": 17,
+    "price": 8350000,
+    "apartmentNumber": 87
+  },
+  {
+    "id": "d564e5bf-fffb-4b75-8a3a-2138d46befc0",
+    "rooms": 1,
+    "square": 97.0,
+    "floor": 4,
+    "totalFloors": 17,
+    "price": 8400000,
+    "apartmentNumber": 88
+  },
+  {
+    "id": "6a8dd677-3f75-4345-9474-dfb6a96f54c6",
+    "rooms": 2,
+    "square": 98.5,
+    "floor": 5,
+    "totalFloors": 17,
+    "price": 8450000,
+    "apartmentNumber": 89
+  },
+  {
+    "id": "92b8c611-4481-468e-83d6-2e6c767246cd",
+    "rooms": 3,
+    "square": 100.0,
+    "floor": 6,
+    "totalFloors": 17,
+    "price": 8500000,
+    "apartmentNumber": 90
+  },
+  {
+    "id": "04cab2a1-c6b2-4531-8e7d-ba23af2a4f81",
+    "rooms": 4,
+    "square": 101.5,
+    "floor": 7,
+    "totalFloors": 17,
+    "price": 8550000,
+    "apartmentNumber": 91
+  },
+  {
+    "id": "700bf33a-32b9-42f3-a266-93757cf94bcb",
+    "rooms": 1,
+    "square": 103.0,
+    "floor": 8,
+    "totalFloors": 17,
+    "price": 8600000,
+    "apartmentNumber": 92
+  },
+  {
+    "id": "18675fd8-f496-47a7-a04b-4b1de653d236",
+    "rooms": 2,
+    "square": 104.5,
+    "floor": 9,
+    "totalFloors": 17,
+    "price": 8650000,
+    "apartmentNumber": 93
+  },
+  {
+    "id": "48564c40-a343-4a29-81d8-e35926ce4f58",
+    "rooms": 3,
+    "square": 106.0,
+    "floor": 10,
+    "totalFloors": 17,
+    "price": 8700000,
+    "apartmentNumber": 94
+  },
+  {
+    "id": "438818dc-7949-4c54-b51a-0d90f02e5bb3",
+    "rooms": 4,
+    "square": 107.5,
+    "floor": 11,
+    "totalFloors": 17,
+    "price": 8750000,
+    "apartmentNumber": 95
+  },
+  {
+    "id": "193b0af4-5568-4158-a40f-cd0ac53a5a5d",
+    "rooms": 1,
+    "square": 109.0,
+    "floor": 12,
+    "totalFloors": 17,
+    "price": 8800000,
+    "apartmentNumber": 96
+  },
+  {
+    "id": "3edecd5f-5b80-4216-a525-e1a2ea9eb491",
+    "rooms": 2,
+    "square": 110.5,
+    "floor": 13,
+    "totalFloors": 17,
+    "price": 8850000,
+    "apartmentNumber": 97
+  },
+  {
+    "id": "dd57da76-c811-4584-896c-572f6aa61ded",
+    "rooms": 3,
+    "square": 112.0,
+    "floor": 14,
+    "totalFloors": 17,
+    "price": 8900000,
+    "apartmentNumber": 98
+  },
+  {
+    "id": "d0f934d2-da28-4bda-ad13-b739048ba7cd",
+    "rooms": 4,
+    "square": 113.5,
+    "floor": 15,
+    "totalFloors": 17,
+    "price": 8950000,
+    "apartmentNumber": 99
+  },
+  {
+    "id": "0ec2155f-86b4-4409-b99f-a9c1351d69c9",
+    "rooms": 1,
+    "square": 40.0,
+    "floor": 16,
+    "totalFloors": 17,
+    "price": 9000000,
+    "apartmentNumber": 100
+  }
+]

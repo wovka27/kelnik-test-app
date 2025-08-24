@@ -1,0 +1,2 @@
+export const QUERY_PAGE_DEFAULT_VALUE = 1
+export const QUERY_LIMIT_DEFAULT_VALUE = 20
